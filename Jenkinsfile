@@ -1,6 +1,7 @@
 node {
-    label 'masternode'
     def app
+
+    label 'masternode'
 
     stage('Clone repository') {
       
